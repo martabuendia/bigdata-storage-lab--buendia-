@@ -1,1 +1,23 @@
 # bigdata-storage-lab--buendia-
+bigdata-storage-lab-<apellido>/
+├── README.md
+├── requirements.txt
+├── streamlit_app.py
+├── src/
+│   ├── ingest.py
+│   ├── validate.py
+│   └── transform.py
+├── docs/
+│   ├── diccionario.md
+│   └── gobernanza.md
+├── tests/
+│   └── checklist.md
+└── data/
+    ├── raw/
+    │   └── .gitkeep
+    ├── bronze/
+    │   └── .gitkeep
+    ├── silver/
+    │   └── .gitkeep
+    └── gold/
+        └── .gitkeep
