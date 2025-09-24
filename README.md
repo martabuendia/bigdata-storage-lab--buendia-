@@ -1,5 +1,4 @@
 # bigdata-storage-lab--buendia-
-bigdata-storage-lab-<apellido>/
 ├── README.md
 ├── requirements.txt
 ├── streamlit_app.py
